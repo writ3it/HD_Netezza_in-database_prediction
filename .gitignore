@@ -1,0 +1,5 @@
+*.sql
+*.csv
+*.pickle
+example_data/*.sql
+example_data/*.csv
