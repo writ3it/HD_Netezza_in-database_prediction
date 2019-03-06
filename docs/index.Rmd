@@ -1,0 +1,10 @@
+---
+title: "Very Fast Decision Tree w hurtowni danych IBM Netezza"
+author: "writ3it"
+date: "6 marca 2019"
+output: 
+  html_document: 
+    theme: simplex
+---
+### Implementacja algorytmu predykcji opartego o drzewo decyzyjne w środowisku SQL hurtowni danych IBM Netezza - [Zobacz dokumentację](https://writ3it.github.io/HD_Netezza_in-database_prediction/dokumentacja.pdf)
+![](https://www.malczewski.it/counter/index.php?n=netezza)
